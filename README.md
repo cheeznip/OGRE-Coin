@@ -1,0 +1,4 @@
+OGRE-Coin
+=========
+
+CryptoCurrency
