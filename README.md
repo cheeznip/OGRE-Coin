@@ -1,4 +1,6 @@
-OGRE-Coin
-=========
+OGRE
+====
 
-CryptoCurrency
+Brute Force CryptoCurrency
+
+Coming Soon
